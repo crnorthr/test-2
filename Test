@@ -1,0 +1,2 @@
+let chris = 2 + 4
+console.log(chris)
